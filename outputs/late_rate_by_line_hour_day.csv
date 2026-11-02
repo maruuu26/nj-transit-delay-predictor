@@ -1,0 +1,1733 @@
+line,dayofweek,hour,stops,late_stops
+Atl. City Line,0,0,18,2
+Atl. City Line,0,1,45,18
+Atl. City Line,0,2,7,3
+Atl. City Line,0,3,1,0
+Atl. City Line,0,4,38,0
+Atl. City Line,0,5,85,5
+Atl. City Line,0,6,107,17
+Atl. City Line,0,7,191,68
+Atl. City Line,0,8,56,21
+Atl. City Line,0,9,131,47
+Atl. City Line,0,10,79,42
+Atl. City Line,0,11,89,6
+Atl. City Line,0,12,162,29
+Atl. City Line,0,13,72,7
+Atl. City Line,0,14,115,8
+Atl. City Line,0,15,218,31
+Atl. City Line,0,16,222,94
+Atl. City Line,0,17,202,101
+Atl. City Line,0,18,274,154
+Atl. City Line,0,19,146,67
+Atl. City Line,0,20,156,77
+Atl. City Line,0,21,153,122
+Atl. City Line,0,22,77,48
+Atl. City Line,0,23,167,93
+Atl. City Line,1,0,76,37
+Atl. City Line,1,1,68,13
+Atl. City Line,1,2,43,8
+Atl. City Line,1,4,55,0
+Atl. City Line,1,5,74,4
+Atl. City Line,1,6,116,23
+Atl. City Line,1,7,166,78
+Atl. City Line,1,8,58,20
+Atl. City Line,1,9,117,39
+Atl. City Line,1,10,78,51
+Atl. City Line,1,11,82,2
+Atl. City Line,1,12,189,12
+Atl. City Line,1,13,77,9
+Atl. City Line,1,14,102,6
+Atl. City Line,1,15,203,42
+Atl. City Line,1,16,208,92
+Atl. City Line,1,17,213,115
+Atl. City Line,1,18,264,175
+Atl. City Line,1,19,151,80
+Atl. City Line,1,20,162,96
+Atl. City Line,1,21,179,135
+Atl. City Line,1,22,33,25
+Atl. City Line,1,23,7,3
+Atl. City Line,2,0,19,5
+Atl. City Line,2,1,38,17
+Atl. City Line,2,2,9,1
+Atl. City Line,2,3,1,0
+Atl. City Line,2,4,46,0
+Atl. City Line,2,5,86,2
+Atl. City Line,2,6,110,21
+Atl. City Line,2,7,152,65
+Atl. City Line,2,8,50,24
+Atl. City Line,2,9,110,27
+Atl. City Line,2,10,71,33
+Atl. City Line,2,11,87,3
+Atl. City Line,2,12,164,13
+Atl. City Line,2,13,73,13
+Atl. City Line,2,14,100,13
+Atl. City Line,2,15,198,44
+Atl. City Line,2,16,195,82
+Atl. City Line,2,17,227,137
+Atl. City Line,2,18,225,137
+Atl. City Line,2,19,135,67
+Atl. City Line,2,20,139,73
+Atl. City Line,2,21,152,109
+Atl. City Line,2,22,95,49
+Atl. City Line,2,23,151,73
+Atl. City Line,3,0,76,37
+Atl. City Line,3,1,70,19
+Atl. City Line,3,2,41,8
+Atl. City Line,3,4,42,1
+Atl. City Line,3,5,86,7
+Atl. City Line,3,6,115,26
+Atl. City Line,3,7,168,66
+Atl. City Line,3,8,61,19
+Atl. City Line,3,9,135,40
+Atl. City Line,3,10,64,30
+Atl. City Line,3,11,79,5
+Atl. City Line,3,12,151,16
+Atl. City Line,3,13,75,17
+Atl. City Line,3,14,101,9
+Atl. City Line,3,15,189,30
+Atl. City Line,3,16,200,93
+Atl. City Line,3,17,204,107
+Atl. City Line,3,18,229,165
+Atl. City Line,3,19,120,66
+Atl. City Line,3,20,163,89
+Atl. City Line,3,21,150,113
+Atl. City Line,3,22,34,23
+Atl. City Line,3,23,24,16
+Atl. City Line,4,0,25,8
+Atl. City Line,4,1,43,19
+Atl. City Line,4,2,9,1
+Atl. City Line,4,4,50,1
+Atl. City Line,4,5,83,5
+Atl. City Line,4,6,122,25
+Atl. City Line,4,7,183,75
+Atl. City Line,4,8,55,17
+Atl. City Line,4,9,134,52
+Atl. City Line,4,10,76,37
+Atl. City Line,4,11,80,0
+Atl. City Line,4,12,158,9
+Atl. City Line,4,13,77,6
+Atl. City Line,4,14,92,5
+Atl. City Line,4,15,209,30
+Atl. City Line,4,16,222,115
+Atl. City Line,4,17,194,114
+Atl. City Line,4,18,249,156
+Atl. City Line,4,19,132,65
+Atl. City Line,4,20,156,59
+Atl. City Line,4,21,167,120
+Atl. City Line,4,22,55,31
+Atl. City Line,4,23,155,83
+Atl. City Line,5,0,68,34
+Atl. City Line,5,1,83,8
+Atl. City Line,5,2,88,16
+Atl. City Line,5,3,21,9
+Atl. City Line,5,5,32,22
+Atl. City Line,5,6,120,55
+Atl. City Line,5,7,137,37
+Atl. City Line,5,8,141,26
+Atl. City Line,5,9,170,67
+Atl. City Line,5,10,155,32
+Atl. City Line,5,11,147,18
+Atl. City Line,5,12,150,16
+Atl. City Line,5,13,140,16
+Atl. City Line,5,14,163,12
+Atl. City Line,5,15,212,26
+Atl. City Line,5,16,193,62
+Atl. City Line,5,17,236,123
+Atl. City Line,5,18,201,150
+Atl. City Line,5,19,169,120
+Atl. City Line,5,20,196,137
+Atl. City Line,5,21,95,65
+Atl. City Line,5,22,166,116
+Atl. City Line,5,23,77,50
+Atl. City Line,6,0,88,57
+Atl. City Line,6,1,34,25
+Atl. City Line,6,5,31,18
+Atl. City Line,6,6,110,47
+Atl. City Line,6,7,128,30
+Atl. City Line,6,8,134,25
+Atl. City Line,6,9,166,64
+Atl. City Line,6,10,164,29
+Atl. City Line,6,11,168,22
+Atl. City Line,6,12,161,16
+Atl. City Line,6,13,167,10
+Atl. City Line,6,14,149,7
+Atl. City Line,6,15,203,33
+Atl. City Line,6,16,158,61
+Atl. City Line,6,17,228,110
+Atl. City Line,6,18,213,148
+Atl. City Line,6,19,184,132
+Atl. City Line,6,20,220,148
+Atl. City Line,6,21,87,51
+Atl. City Line,6,22,73,20
+Atl. City Line,6,23,27,8
+Bergen Co. Line ,0,0,65,13
+Bergen Co. Line ,0,1,400,135
+Bergen Co. Line ,0,2,102,31
+Bergen Co. Line ,0,3,47,6
+Bergen Co. Line ,0,4,116,27
+Bergen Co. Line ,0,5,473,110
+Bergen Co. Line ,0,6,1033,202
+Bergen Co. Line ,0,7,1179,190
+Bergen Co. Line ,0,8,1115,356
+Bergen Co. Line ,0,9,1063,395
+Bergen Co. Line ,0,10,920,195
+Bergen Co. Line ,0,11,926,224
+Bergen Co. Line ,0,12,650,152
+Bergen Co. Line ,0,13,674,144
+Bergen Co. Line ,0,14,978,374
+Bergen Co. Line ,0,15,1015,242
+Bergen Co. Line ,0,16,990,137
+Bergen Co. Line ,0,17,1396,309
+Bergen Co. Line ,0,18,1691,430
+Bergen Co. Line ,0,19,1026,283
+Bergen Co. Line ,0,20,709,113
+Bergen Co. Line ,0,21,436,101
+Bergen Co. Line ,0,22,630,110
+Bergen Co. Line ,0,23,448,108
+Bergen Co. Line ,1,0,203,13
+Bergen Co. Line ,1,1,35,8
+Bergen Co. Line ,1,2,13,2
+Bergen Co. Line ,1,3,27,0
+Bergen Co. Line ,1,4,123,31
+Bergen Co. Line ,1,5,482,94
+Bergen Co. Line ,1,6,1138,173
+Bergen Co. Line ,1,7,1201,146
+Bergen Co. Line ,1,8,1148,334
+Bergen Co. Line ,1,9,1124,416
+Bergen Co. Line ,1,10,982,211
+Bergen Co. Line ,1,11,993,263
+Bergen Co. Line ,1,12,672,154
+Bergen Co. Line ,1,13,656,128
+Bergen Co. Line ,1,14,971,396
+Bergen Co. Line ,1,15,1092,308
+Bergen Co. Line ,1,16,1057,182
+Bergen Co. Line ,1,17,1439,344
+Bergen Co. Line ,1,18,1654,454
+Bergen Co. Line ,1,19,1135,274
+Bergen Co. Line ,1,20,715,125
+Bergen Co. Line ,1,21,413,116
+Bergen Co. Line ,1,22,569,133
+Bergen Co. Line ,1,23,276,78
+Bergen Co. Line ,2,0,97,15
+Bergen Co. Line ,2,1,355,75
+Bergen Co. Line ,2,2,101,39
+Bergen Co. Line ,2,3,53,10
+Bergen Co. Line ,2,4,99,36
+Bergen Co. Line ,2,5,469,102
+Bergen Co. Line ,2,6,1070,201
+Bergen Co. Line ,2,7,1195,141
+Bergen Co. Line ,2,8,1128,260
+Bergen Co. Line ,2,9,1061,350
+Bergen Co. Line ,2,10,890,164
+Bergen Co. Line ,2,11,906,261
+Bergen Co. Line ,2,12,675,164
+Bergen Co. Line ,2,13,661,189
+Bergen Co. Line ,2,14,968,454
+Bergen Co. Line ,2,15,1023,273
+Bergen Co. Line ,2,16,1061,173
+Bergen Co. Line ,2,17,1430,312
+Bergen Co. Line ,2,18,1702,473
+Bergen Co. Line ,2,19,1115,299
+Bergen Co. Line ,2,20,704,117
+Bergen Co. Line ,2,21,451,155
+Bergen Co. Line ,2,22,622,121
+Bergen Co. Line ,2,23,461,123
+Bergen Co. Line ,3,0,203,35
+Bergen Co. Line ,3,1,46,5
+Bergen Co. Line ,3,2,12,3
+Bergen Co. Line ,3,3,21,0
+Bergen Co. Line ,3,4,121,33
+Bergen Co. Line ,3,5,490,106
+Bergen Co. Line ,3,6,1150,186
+Bergen Co. Line ,3,7,1215,177
+Bergen Co. Line ,3,8,1190,349
+Bergen Co. Line ,3,9,1041,321
+Bergen Co. Line ,3,10,935,140
+Bergen Co. Line ,3,11,939,252
+Bergen Co. Line ,3,12,655,180
+Bergen Co. Line ,3,13,671,150
+Bergen Co. Line ,3,14,950,408
+Bergen Co. Line ,3,15,999,268
+Bergen Co. Line ,3,16,1063,142
+Bergen Co. Line ,3,17,1433,311
+Bergen Co. Line ,3,18,1662,434
+Bergen Co. Line ,3,19,1170,296
+Bergen Co. Line ,3,20,729,137
+Bergen Co. Line ,3,21,457,129
+Bergen Co. Line ,3,22,542,98
+Bergen Co. Line ,3,23,277,71
+Bergen Co. Line ,4,0,108,13
+Bergen Co. Line ,4,1,341,89
+Bergen Co. Line ,4,2,112,32
+Bergen Co. Line ,4,3,61,12
+Bergen Co. Line ,4,4,120,46
+Bergen Co. Line ,4,5,515,113
+Bergen Co. Line ,4,6,1152,182
+Bergen Co. Line ,4,7,1211,152
+Bergen Co. Line ,4,8,1214,312
+Bergen Co. Line ,4,9,1065,342
+Bergen Co. Line ,4,10,951,178
+Bergen Co. Line ,4,11,952,254
+Bergen Co. Line ,4,12,706,203
+Bergen Co. Line ,4,13,687,226
+Bergen Co. Line ,4,14,1032,489
+Bergen Co. Line ,4,15,1111,349
+Bergen Co. Line ,4,16,1068,212
+Bergen Co. Line ,4,17,1412,360
+Bergen Co. Line ,4,18,1706,425
+Bergen Co. Line ,4,19,1231,271
+Bergen Co. Line ,4,20,762,134
+Bergen Co. Line ,4,21,450,120
+Bergen Co. Line ,4,22,644,117
+Bergen Co. Line ,4,23,411,117
+Bergen Co. Line ,5,0,242,64
+Bergen Co. Line ,5,1,381,161
+Bergen Co. Line ,5,2,99,29
+Bergen Co. Line ,5,3,22,7
+Bergen Co. Line ,5,6,365,65
+Bergen Co. Line ,5,7,540,73
+Bergen Co. Line ,5,8,579,116
+Bergen Co. Line ,5,9,345,44
+Bergen Co. Line ,5,10,357,87
+Bergen Co. Line ,5,11,230,18
+Bergen Co. Line ,5,12,303,82
+Bergen Co. Line ,5,13,382,39
+Bergen Co. Line ,5,14,593,126
+Bergen Co. Line ,5,15,606,136
+Bergen Co. Line ,5,16,729,235
+Bergen Co. Line ,5,17,682,188
+Bergen Co. Line ,5,18,712,163
+Bergen Co. Line ,5,19,507,134
+Bergen Co. Line ,5,20,372,90
+Bergen Co. Line ,5,21,345,43
+Bergen Co. Line ,5,22,558,146
+Bergen Co. Line ,5,23,371,106
+Bergen Co. Line ,6,0,341,23
+Bergen Co. Line ,6,1,44,7
+Bergen Co. Line ,6,6,342,45
+Bergen Co. Line ,6,7,540,37
+Bergen Co. Line ,6,8,585,66
+Bergen Co. Line ,6,9,337,26
+Bergen Co. Line ,6,10,349,71
+Bergen Co. Line ,6,11,220,21
+Bergen Co. Line ,6,12,324,115
+Bergen Co. Line ,6,13,396,63
+Bergen Co. Line ,6,14,554,107
+Bergen Co. Line ,6,15,614,87
+Bergen Co. Line ,6,16,742,211
+Bergen Co. Line ,6,17,670,167
+Bergen Co. Line ,6,18,690,187
+Bergen Co. Line ,6,19,454,128
+Bergen Co. Line ,6,20,386,91
+Bergen Co. Line ,6,21,330,22
+Bergen Co. Line ,6,22,519,102
+Bergen Co. Line ,6,23,333,60
+Gladstone Branch,0,0,2,0
+Gladstone Branch,0,1,3,2
+Gladstone Branch,0,2,1,0
+Gladstone Branch,0,4,169,2
+Gladstone Branch,0,5,606,31
+Gladstone Branch,0,6,1196,110
+Gladstone Branch,0,7,1286,225
+Gladstone Branch,0,8,1045,254
+Gladstone Branch,0,9,1127,247
+Gladstone Branch,0,10,1015,241
+Gladstone Branch,0,11,1180,242
+Gladstone Branch,0,12,1069,213
+Gladstone Branch,0,13,1087,173
+Gladstone Branch,0,14,1087,187
+Gladstone Branch,0,15,1084,307
+Gladstone Branch,0,16,883,337
+Gladstone Branch,0,17,1094,493
+Gladstone Branch,0,18,1280,536
+Gladstone Branch,0,19,874,426
+Gladstone Branch,0,20,693,254
+Gladstone Branch,0,21,768,220
+Gladstone Branch,0,22,1119,249
+Gladstone Branch,0,23,1074,174
+Gladstone Branch,1,0,889,89
+Gladstone Branch,1,1,343,47
+Gladstone Branch,1,2,11,0
+Gladstone Branch,1,3,1,0
+Gladstone Branch,1,4,154,1
+Gladstone Branch,1,5,673,20
+Gladstone Branch,1,6,1222,101
+Gladstone Branch,1,7,1330,205
+Gladstone Branch,1,8,1069,228
+Gladstone Branch,1,9,1099,186
+Gladstone Branch,1,10,1049,227
+Gladstone Branch,1,11,1200,192
+Gladstone Branch,1,12,1078,182
+Gladstone Branch,1,13,1091,144
+Gladstone Branch,1,14,1111,171
+Gladstone Branch,1,15,1164,265
+Gladstone Branch,1,16,859,287
+Gladstone Branch,1,17,1037,439
+Gladstone Branch,1,18,1373,576
+Gladstone Branch,1,19,902,470
+Gladstone Branch,1,20,693,258
+Gladstone Branch,1,21,768,169
+Gladstone Branch,1,22,1069,208
+Gladstone Branch,1,23,262,48
+Gladstone Branch,2,0,98,12
+Gladstone Branch,2,1,36,2
+Gladstone Branch,2,4,160,3
+Gladstone Branch,2,5,643,27
+Gladstone Branch,2,6,1216,85
+Gladstone Branch,2,7,1280,226
+Gladstone Branch,2,8,1044,283
+Gladstone Branch,2,9,1080,202
+Gladstone Branch,2,10,1024,267
+Gladstone Branch,2,11,1150,223
+Gladstone Branch,2,12,1040,178
+Gladstone Branch,2,13,1105,187
+Gladstone Branch,2,14,1130,205
+Gladstone Branch,2,15,1091,336
+Gladstone Branch,2,16,864,322
+Gladstone Branch,2,17,1056,445
+Gladstone Branch,2,18,1368,562
+Gladstone Branch,2,19,855,445
+Gladstone Branch,2,20,695,268
+Gladstone Branch,2,21,776,202
+Gladstone Branch,2,22,1122,207
+Gladstone Branch,2,23,944,183
+Gladstone Branch,3,0,783,129
+Gladstone Branch,3,1,297,53
+Gladstone Branch,3,2,13,0
+Gladstone Branch,3,3,1,0
+Gladstone Branch,3,4,171,3
+Gladstone Branch,3,5,669,37
+Gladstone Branch,3,6,1152,91
+Gladstone Branch,3,7,1309,176
+Gladstone Branch,3,8,1139,268
+Gladstone Branch,3,9,1140,226
+Gladstone Branch,3,10,1022,267
+Gladstone Branch,3,11,1158,228
+Gladstone Branch,3,12,1139,184
+Gladstone Branch,3,13,1082,131
+Gladstone Branch,3,14,1201,228
+Gladstone Branch,3,15,1123,327
+Gladstone Branch,3,16,876,293
+Gladstone Branch,3,17,1070,455
+Gladstone Branch,3,18,1321,525
+Gladstone Branch,3,19,850,407
+Gladstone Branch,3,20,716,284
+Gladstone Branch,3,21,778,197
+Gladstone Branch,3,22,1077,199
+Gladstone Branch,3,23,283,55
+Gladstone Branch,4,0,133,11
+Gladstone Branch,4,1,49,3
+Gladstone Branch,4,2,14,0
+Gladstone Branch,4,3,1,0
+Gladstone Branch,4,4,163,0
+Gladstone Branch,4,5,653,17
+Gladstone Branch,4,6,1194,73
+Gladstone Branch,4,7,1383,208
+Gladstone Branch,4,8,1146,226
+Gladstone Branch,4,9,1175,193
+Gladstone Branch,4,10,1010,243
+Gladstone Branch,4,11,1224,192
+Gladstone Branch,4,12,1116,196
+Gladstone Branch,4,13,1086,212
+Gladstone Branch,4,14,1165,272
+Gladstone Branch,4,15,1133,390
+Gladstone Branch,4,16,840,383
+Gladstone Branch,4,17,1028,526
+Gladstone Branch,4,18,1332,530
+Gladstone Branch,4,19,870,410
+Gladstone Branch,4,20,684,253
+Gladstone Branch,4,21,765,197
+Gladstone Branch,4,22,1206,247
+Gladstone Branch,4,23,957,215
+Gladstone Branch,5,0,789,188
+Gladstone Branch,5,1,298,95
+Gladstone Branch,5,5,22,2
+Gladstone Branch,5,6,111,22
+Gladstone Branch,5,7,187,11
+Gladstone Branch,5,8,192,24
+Gladstone Branch,5,9,201,26
+Gladstone Branch,5,10,212,15
+Gladstone Branch,5,11,216,29
+Gladstone Branch,5,12,214,17
+Gladstone Branch,5,13,218,16
+Gladstone Branch,5,14,219,19
+Gladstone Branch,5,15,227,20
+Gladstone Branch,5,16,213,12
+Gladstone Branch,5,17,208,22
+Gladstone Branch,5,18,215,19
+Gladstone Branch,5,19,202,11
+Gladstone Branch,5,20,227,20
+Gladstone Branch,5,21,223,14
+Gladstone Branch,5,22,210,15
+Gladstone Branch,5,23,199,8
+Gladstone Branch,6,0,195,20
+Gladstone Branch,6,1,120,11
+Gladstone Branch,6,2,137,28
+Gladstone Branch,6,3,7,0
+Gladstone Branch,6,5,22,0
+Gladstone Branch,6,6,88,0
+Gladstone Branch,6,7,174,5
+Gladstone Branch,6,8,202,26
+Gladstone Branch,6,9,210,25
+Gladstone Branch,6,10,214,19
+Gladstone Branch,6,11,216,13
+Gladstone Branch,6,12,207,21
+Gladstone Branch,6,13,203,11
+Gladstone Branch,6,14,215,22
+Gladstone Branch,6,15,201,25
+Gladstone Branch,6,16,222,16
+Gladstone Branch,6,17,222,12
+Gladstone Branch,6,18,194,4
+Gladstone Branch,6,19,215,28
+Gladstone Branch,6,20,202,24
+Gladstone Branch,6,21,216,12
+Gladstone Branch,6,22,196,16
+Gladstone Branch,6,23,84,2
+Main Line,0,0,3,0
+Main Line,0,1,169,47
+Main Line,0,2,270,104
+Main Line,0,4,147,6
+Main Line,0,5,775,250
+Main Line,0,6,981,263
+Main Line,0,7,1052,256
+Main Line,0,8,1154,346
+Main Line,0,9,921,398
+Main Line,0,10,676,139
+Main Line,0,11,615,128
+Main Line,0,12,766,268
+Main Line,0,13,545,290
+Main Line,0,14,574,108
+Main Line,0,15,1075,135
+Main Line,0,16,1079,206
+Main Line,0,17,1032,204
+Main Line,0,18,1149,302
+Main Line,0,19,1177,385
+Main Line,0,20,1068,234
+Main Line,0,21,814,126
+Main Line,0,22,662,158
+Main Line,0,23,459,77
+Main Line,1,0,527,126
+Main Line,1,1,144,41
+Main Line,1,2,20,3
+Main Line,1,4,142,0
+Main Line,1,5,788,175
+Main Line,1,6,1024,222
+Main Line,1,7,1158,214
+Main Line,1,8,1177,284
+Main Line,1,9,952,335
+Main Line,1,10,635,172
+Main Line,1,11,584,128
+Main Line,1,12,718,237
+Main Line,1,13,529,311
+Main Line,1,14,604,104
+Main Line,1,15,1067,120
+Main Line,1,16,1174,208
+Main Line,1,17,1084,270
+Main Line,1,18,1124,325
+Main Line,1,19,1249,361
+Main Line,1,20,1089,249
+Main Line,1,21,811,135
+Main Line,1,22,694,130
+Main Line,1,23,218,73
+Main Line,2,0,109,56
+Main Line,2,1,152,19
+Main Line,2,2,217,41
+Main Line,2,4,140,2
+Main Line,2,5,714,209
+Main Line,2,6,999,254
+Main Line,2,7,1074,230
+Main Line,2,8,1202,311
+Main Line,2,9,879,328
+Main Line,2,10,664,178
+Main Line,2,11,589,121
+Main Line,2,12,738,254
+Main Line,2,13,565,311
+Main Line,2,14,604,120
+Main Line,2,15,1022,116
+Main Line,2,16,1000,215
+Main Line,2,17,1064,281
+Main Line,2,18,1113,363
+Main Line,2,19,1186,324
+Main Line,2,20,1060,192
+Main Line,2,21,829,109
+Main Line,2,22,676,146
+Main Line,2,23,410,91
+Main Line,3,0,464,146
+Main Line,3,1,133,56
+Main Line,3,2,34,9
+Main Line,3,4,131,4
+Main Line,3,5,782,238
+Main Line,3,6,1029,250
+Main Line,3,7,1065,227
+Main Line,3,8,1127,287
+Main Line,3,9,875,349
+Main Line,3,10,693,208
+Main Line,3,11,630,119
+Main Line,3,12,767,238
+Main Line,3,13,542,298
+Main Line,3,14,571,101
+Main Line,3,15,1101,137
+Main Line,3,16,1066,226
+Main Line,3,17,1003,238
+Main Line,3,18,1156,318
+Main Line,3,19,1228,362
+Main Line,3,20,1026,170
+Main Line,3,21,839,164
+Main Line,3,22,648,157
+Main Line,3,23,230,92
+Main Line,4,0,118,58
+Main Line,4,1,168,22
+Main Line,4,2,243,62
+Main Line,4,4,147,3
+Main Line,4,5,842,241
+Main Line,4,6,1007,237
+Main Line,4,7,1114,194
+Main Line,4,8,1188,250
+Main Line,4,9,887,326
+Main Line,4,10,695,202
+Main Line,4,11,606,131
+Main Line,4,12,751,248
+Main Line,4,13,585,396
+Main Line,4,14,610,141
+Main Line,4,15,1089,175
+Main Line,4,16,1073,280
+Main Line,4,17,1027,287
+Main Line,4,18,1111,267
+Main Line,4,19,1210,320
+Main Line,4,20,1140,193
+Main Line,4,21,850,167
+Main Line,4,22,673,188
+Main Line,4,23,432,131
+Main Line,5,0,451,173
+Main Line,5,1,305,129
+Main Line,5,2,253,160
+Main Line,5,4,17,0
+Main Line,5,5,130,105
+Main Line,5,6,564,249
+Main Line,5,7,870,144
+Main Line,5,8,867,239
+Main Line,5,9,830,302
+Main Line,5,10,830,487
+Main Line,5,11,843,296
+Main Line,5,12,1102,583
+Main Line,5,13,918,222
+Main Line,5,14,641,179
+Main Line,5,15,640,192
+Main Line,5,16,616,197
+Main Line,5,17,1016,313
+Main Line,5,18,1029,327
+Main Line,5,19,924,254
+Main Line,5,20,677,175
+Main Line,5,21,796,276
+Main Line,5,22,820,521
+Main Line,5,23,270,71
+Main Line,6,0,274,216
+Main Line,6,4,15,0
+Main Line,6,5,127,61
+Main Line,6,6,615,158
+Main Line,6,7,905,103
+Main Line,6,8,828,174
+Main Line,6,9,855,259
+Main Line,6,10,833,343
+Main Line,6,11,837,258
+Main Line,6,12,1019,437
+Main Line,6,13,847,136
+Main Line,6,14,653,133
+Main Line,6,15,595,119
+Main Line,6,16,579,102
+Main Line,6,17,1011,222
+Main Line,6,18,938,254
+Main Line,6,19,930,252
+Main Line,6,20,662,136
+Main Line,6,21,762,226
+Main Line,6,22,861,410
+Main Line,6,23,108,34
+Montclair-Boonton,0,0,3,0
+Montclair-Boonton,0,4,109,26
+Montclair-Boonton,0,5,668,77
+Montclair-Boonton,0,6,1301,231
+Montclair-Boonton,0,7,1679,332
+Montclair-Boonton,0,8,1303,440
+Montclair-Boonton,0,9,987,467
+Montclair-Boonton,0,10,788,184
+Montclair-Boonton,0,11,582,141
+Montclair-Boonton,0,12,623,123
+Montclair-Boonton,0,13,620,119
+Montclair-Boonton,0,14,831,171
+Montclair-Boonton,0,15,678,136
+Montclair-Boonton,0,16,1175,355
+Montclair-Boonton,0,17,1330,577
+Montclair-Boonton,0,18,1859,768
+Montclair-Boonton,0,19,1205,657
+Montclair-Boonton,0,20,987,450
+Montclair-Boonton,0,21,1010,309
+Montclair-Boonton,0,22,936,187
+Montclair-Boonton,0,23,878,183
+Montclair-Boonton,1,0,339,54
+Montclair-Boonton,1,1,200,58
+Montclair-Boonton,1,4,107,11
+Montclair-Boonton,1,5,678,43
+Montclair-Boonton,1,6,1353,187
+Montclair-Boonton,1,7,1755,283
+Montclair-Boonton,1,8,1355,396
+Montclair-Boonton,1,9,1022,421
+Montclair-Boonton,1,10,835,229
+Montclair-Boonton,1,11,586,124
+Montclair-Boonton,1,12,608,177
+Montclair-Boonton,1,13,628,129
+Montclair-Boonton,1,14,854,217
+Montclair-Boonton,1,15,680,147
+Montclair-Boonton,1,16,1185,345
+Montclair-Boonton,1,17,1305,566
+Montclair-Boonton,1,18,1952,821
+Montclair-Boonton,1,19,1249,702
+Montclair-Boonton,1,20,1026,459
+Montclair-Boonton,1,21,1116,274
+Montclair-Boonton,1,22,893,173
+Montclair-Boonton,1,23,486,117
+Montclair-Boonton,2,0,38,4
+Montclair-Boonton,2,1,13,7
+Montclair-Boonton,2,4,109,12
+Montclair-Boonton,2,5,660,27
+Montclair-Boonton,2,6,1316,148
+Montclair-Boonton,2,7,1632,310
+Montclair-Boonton,2,8,1317,395
+Montclair-Boonton,2,9,940,372
+Montclair-Boonton,2,10,832,216
+Montclair-Boonton,2,11,592,135
+Montclair-Boonton,2,12,555,154
+Montclair-Boonton,2,13,614,140
+Montclair-Boonton,2,14,872,235
+Montclair-Boonton,2,15,685,152
+Montclair-Boonton,2,16,1214,385
+Montclair-Boonton,2,17,1321,620
+Montclair-Boonton,2,18,1887,774
+Montclair-Boonton,2,19,1256,661
+Montclair-Boonton,2,20,974,474
+Montclair-Boonton,2,21,1023,341
+Montclair-Boonton,2,22,943,220
+Montclair-Boonton,2,23,811,195
+Montclair-Boonton,3,0,331,86
+Montclair-Boonton,3,1,206,86
+Montclair-Boonton,3,2,5,0
+Montclair-Boonton,3,4,115,14
+Montclair-Boonton,3,5,708,36
+Montclair-Boonton,3,6,1354,152
+Montclair-Boonton,3,7,1726,269
+Montclair-Boonton,3,8,1360,409
+Montclair-Boonton,3,9,1005,420
+Montclair-Boonton,3,10,820,190
+Montclair-Boonton,3,11,591,126
+Montclair-Boonton,3,12,603,149
+Montclair-Boonton,3,13,609,108
+Montclair-Boonton,3,14,866,187
+Montclair-Boonton,3,15,671,135
+Montclair-Boonton,3,16,1163,365
+Montclair-Boonton,3,17,1326,591
+Montclair-Boonton,3,18,1946,771
+Montclair-Boonton,3,19,1257,684
+Montclair-Boonton,3,20,1001,459
+Montclair-Boonton,3,21,1010,310
+Montclair-Boonton,3,22,911,194
+Montclair-Boonton,3,23,536,173
+Montclair-Boonton,4,0,61,14
+Montclair-Boonton,4,1,14,1
+Montclair-Boonton,4,4,107,8
+Montclair-Boonton,4,5,666,31
+Montclair-Boonton,4,6,1381,150
+Montclair-Boonton,4,7,1836,292
+Montclair-Boonton,4,8,1471,380
+Montclair-Boonton,4,9,1017,419
+Montclair-Boonton,4,10,895,197
+Montclair-Boonton,4,11,646,107
+Montclair-Boonton,4,12,607,160
+Montclair-Boonton,4,13,641,116
+Montclair-Boonton,4,14,904,156
+Montclair-Boonton,4,15,738,148
+Montclair-Boonton,4,16,1158,423
+Montclair-Boonton,4,17,1399,651
+Montclair-Boonton,4,18,1972,777
+Montclair-Boonton,4,19,1242,565
+Montclair-Boonton,4,20,1030,414
+Montclair-Boonton,4,21,1077,319
+Montclair-Boonton,4,22,869,199
+Montclair-Boonton,4,23,742,249
+Montclair-Boonton,5,0,341,104
+Montclair-Boonton,5,1,197,101
+Montclair-Boonton,5,6,153,9
+Montclair-Boonton,5,7,142,35
+Montclair-Boonton,5,8,141,68
+Montclair-Boonton,5,9,140,42
+Montclair-Boonton,5,10,136,69
+Montclair-Boonton,5,11,136,50
+Montclair-Boonton,5,12,156,89
+Montclair-Boonton,5,13,153,42
+Montclair-Boonton,5,14,138,62
+Montclair-Boonton,5,15,131,49
+Montclair-Boonton,5,16,134,75
+Montclair-Boonton,5,17,143,46
+Montclair-Boonton,5,18,134,73
+Montclair-Boonton,5,19,129,38
+Montclair-Boonton,5,20,131,66
+Montclair-Boonton,5,21,151,41
+Montclair-Boonton,5,23,141,78
+Montclair-Boonton,6,0,139,13
+Montclair-Boonton,6,1,144,59
+Montclair-Boonton,6,6,155,2
+Montclair-Boonton,6,7,140,25
+Montclair-Boonton,6,8,149,56
+Montclair-Boonton,6,9,124,20
+Montclair-Boonton,6,10,154,66
+Montclair-Boonton,6,11,141,36
+Montclair-Boonton,6,12,129,63
+Montclair-Boonton,6,13,131,34
+Montclair-Boonton,6,14,132,58
+Montclair-Boonton,6,15,126,40
+Montclair-Boonton,6,16,137,53
+Montclair-Boonton,6,17,166,45
+Montclair-Boonton,6,18,127,52
+Montclair-Boonton,6,19,149,49
+Montclair-Boonton,6,20,141,71
+Montclair-Boonton,6,21,158,47
+Montclair-Boonton,6,23,138,47
+Morristown Line,0,0,5,0
+Morristown Line,0,1,3,2
+Morristown Line,0,2,4,2
+Morristown Line,0,3,1,0
+Morristown Line,0,4,230,36
+Morristown Line,0,5,1140,110
+Morristown Line,0,6,2215,410
+Morristown Line,0,7,2427,578
+Morristown Line,0,8,2554,678
+Morristown Line,0,9,1714,615
+Morristown Line,0,10,1229,435
+Morristown Line,0,11,1058,380
+Morristown Line,0,12,997,312
+Morristown Line,0,13,1047,342
+Morristown Line,0,14,916,175
+Morristown Line,0,15,1405,283
+Morristown Line,0,16,2016,442
+Morristown Line,0,17,2482,747
+Morristown Line,0,18,2731,987
+Morristown Line,0,19,2430,852
+Morristown Line,0,20,1572,590
+Morristown Line,0,21,1265,469
+Morristown Line,0,22,1180,367
+Morristown Line,0,23,948,236
+Morristown Line,1,0,464,78
+Morristown Line,1,1,512,159
+Morristown Line,1,2,125,26
+Morristown Line,1,3,1,0
+Morristown Line,1,4,259,18
+Morristown Line,1,5,1192,62
+Morristown Line,1,6,2260,399
+Morristown Line,1,7,2450,505
+Morristown Line,1,8,2596,546
+Morristown Line,1,9,1691,565
+Morristown Line,1,10,1252,447
+Morristown Line,1,11,1091,462
+Morristown Line,1,12,1002,338
+Morristown Line,1,13,1136,363
+Morristown Line,1,14,954,228
+Morristown Line,1,15,1434,265
+Morristown Line,1,16,1983,424
+Morristown Line,1,17,2539,796
+Morristown Line,1,18,2929,1043
+Morristown Line,1,19,2421,775
+Morristown Line,1,20,1543,555
+Morristown Line,1,21,1242,436
+Morristown Line,1,22,1032,360
+Morristown Line,1,23,469,209
+Morristown Line,2,0,50,3
+Morristown Line,2,1,33,4
+Morristown Line,2,2,11,0
+Morristown Line,2,4,256,18
+Morristown Line,2,5,1198,74
+Morristown Line,2,6,2197,364
+Morristown Line,2,7,2341,383
+Morristown Line,2,8,2491,482
+Morristown Line,2,9,1676,477
+Morristown Line,2,10,1180,426
+Morristown Line,2,11,1036,408
+Morristown Line,2,12,1029,322
+Morristown Line,2,13,1060,389
+Morristown Line,2,14,940,234
+Morristown Line,2,15,1426,306
+Morristown Line,2,16,2000,467
+Morristown Line,2,17,2448,775
+Morristown Line,2,18,2830,1098
+Morristown Line,2,19,2461,872
+Morristown Line,2,20,1488,549
+Morristown Line,2,21,1150,436
+Morristown Line,2,22,1104,403
+Morristown Line,2,23,885,259
+Morristown Line,3,0,461,109
+Morristown Line,3,1,463,182
+Morristown Line,3,2,158,28
+Morristown Line,3,4,248,24
+Morristown Line,3,5,1210,77
+Morristown Line,3,6,2342,364
+Morristown Line,3,7,2348,399
+Morristown Line,3,8,2527,545
+Morristown Line,3,9,1699,555
+Morristown Line,3,10,1253,410
+Morristown Line,3,11,1082,410
+Morristown Line,3,12,1020,367
+Morristown Line,3,13,1034,367
+Morristown Line,3,14,941,222
+Morristown Line,3,15,1441,273
+Morristown Line,3,16,1956,443
+Morristown Line,3,17,2456,761
+Morristown Line,3,18,2942,1036
+Morristown Line,3,19,2427,792
+Morristown Line,3,20,1503,558
+Morristown Line,3,21,1229,465
+Morristown Line,3,22,1028,336
+Morristown Line,3,23,561,220
+Morristown Line,4,0,69,5
+Morristown Line,4,1,40,15
+Morristown Line,4,2,14,3
+Morristown Line,4,4,232,20
+Morristown Line,4,5,1238,83
+Morristown Line,4,6,2372,398
+Morristown Line,4,7,2478,439
+Morristown Line,4,8,2655,543
+Morristown Line,4,9,1802,584
+Morristown Line,4,10,1275,414
+Morristown Line,4,11,1085,436
+Morristown Line,4,12,1068,343
+Morristown Line,4,13,1061,352
+Morristown Line,4,14,957,205
+Morristown Line,4,15,1523,332
+Morristown Line,4,16,2135,622
+Morristown Line,4,17,2551,919
+Morristown Line,4,18,2950,1109
+Morristown Line,4,19,2535,935
+Morristown Line,4,20,1583,552
+Morristown Line,4,21,1191,418
+Morristown Line,4,22,1131,404
+Morristown Line,4,23,849,346
+Morristown Line,5,0,472,164
+Morristown Line,5,1,504,281
+Morristown Line,5,2,117,60
+Morristown Line,5,5,268,64
+Morristown Line,5,6,458,56
+Morristown Line,5,7,694,174
+Morristown Line,5,8,938,207
+Morristown Line,5,9,910,286
+Morristown Line,5,10,951,335
+Morristown Line,5,11,922,290
+Morristown Line,5,12,915,312
+Morristown Line,5,13,890,247
+Morristown Line,5,14,955,239
+Morristown Line,5,15,912,288
+Morristown Line,5,16,898,294
+Morristown Line,5,17,968,327
+Morristown Line,5,18,941,312
+Morristown Line,5,19,927,284
+Morristown Line,5,20,973,275
+Morristown Line,5,21,923,286
+Morristown Line,5,22,921,189
+Morristown Line,5,23,970,257
+Morristown Line,6,0,476,119
+Morristown Line,6,1,589,257
+Morristown Line,6,2,257,106
+Morristown Line,6,3,17,1
+Morristown Line,6,5,260,59
+Morristown Line,6,6,489,45
+Morristown Line,6,7,666,116
+Morristown Line,6,8,937,149
+Morristown Line,6,9,961,239
+Morristown Line,6,10,943,211
+Morristown Line,6,11,1005,208
+Morristown Line,6,12,882,247
+Morristown Line,6,13,894,198
+Morristown Line,6,14,941,191
+Morristown Line,6,15,878,216
+Morristown Line,6,16,853,204
+Morristown Line,6,17,920,221
+Morristown Line,6,18,909,274
+Morristown Line,6,19,961,261
+Morristown Line,6,20,932,253
+Morristown Line,6,21,916,268
+Morristown Line,6,22,867,154
+Morristown Line,6,23,399,53
+No Jersey Coast,0,0,470,188
+No Jersey Coast,0,1,592,257
+No Jersey Coast,0,2,150,82
+No Jersey Coast,0,3,23,0
+No Jersey Coast,0,4,444,54
+No Jersey Coast,0,5,1025,144
+No Jersey Coast,0,6,1590,188
+No Jersey Coast,0,7,2125,465
+No Jersey Coast,0,8,1911,563
+No Jersey Coast,0,9,1435,469
+No Jersey Coast,0,10,1125,392
+No Jersey Coast,0,11,1226,492
+No Jersey Coast,0,12,1035,392
+No Jersey Coast,0,13,1075,385
+No Jersey Coast,0,14,983,370
+No Jersey Coast,0,15,1008,250
+No Jersey Coast,0,16,1486,411
+No Jersey Coast,0,17,2107,553
+No Jersey Coast,0,18,2512,997
+No Jersey Coast,0,19,2205,765
+No Jersey Coast,0,20,1623,397
+No Jersey Coast,0,21,1160,370
+No Jersey Coast,0,22,1097,272
+No Jersey Coast,0,23,1063,228
+No Jersey Coast,1,0,722,116
+No Jersey Coast,1,1,297,42
+No Jersey Coast,1,2,22,7
+No Jersey Coast,1,3,30,3
+No Jersey Coast,1,4,513,50
+No Jersey Coast,1,5,999,136
+No Jersey Coast,1,6,1610,159
+No Jersey Coast,1,7,2183,365
+No Jersey Coast,1,8,1947,596
+No Jersey Coast,1,9,1452,494
+No Jersey Coast,1,10,1090,400
+No Jersey Coast,1,11,1174,448
+No Jersey Coast,1,12,1012,405
+No Jersey Coast,1,13,1034,340
+No Jersey Coast,1,14,994,282
+No Jersey Coast,1,15,1027,267
+No Jersey Coast,1,16,1426,400
+No Jersey Coast,1,17,2045,613
+No Jersey Coast,1,18,2574,1076
+No Jersey Coast,1,19,2199,746
+No Jersey Coast,1,20,1623,419
+No Jersey Coast,1,21,1134,322
+No Jersey Coast,1,22,837,286
+No Jersey Coast,1,23,318,105
+No Jersey Coast,2,0,442,195
+No Jersey Coast,2,1,595,273
+No Jersey Coast,2,2,161,71
+No Jersey Coast,2,3,24,0
+No Jersey Coast,2,4,463,59
+No Jersey Coast,2,5,934,131
+No Jersey Coast,2,6,1534,174
+No Jersey Coast,2,7,2112,384
+No Jersey Coast,2,8,1872,534
+No Jersey Coast,2,9,1412,423
+No Jersey Coast,2,10,1118,405
+No Jersey Coast,2,11,1115,420
+No Jersey Coast,2,12,1069,428
+No Jersey Coast,2,13,1039,364
+No Jersey Coast,2,14,1029,318
+No Jersey Coast,2,15,972,224
+No Jersey Coast,2,16,1445,392
+No Jersey Coast,2,17,2040,567
+No Jersey Coast,2,18,2504,1049
+No Jersey Coast,2,19,2064,656
+No Jersey Coast,2,20,1618,408
+No Jersey Coast,2,21,1113,421
+No Jersey Coast,2,22,944,369
+No Jersey Coast,2,23,551,215
+No Jersey Coast,3,0,499,93
+No Jersey Coast,3,1,329,57
+No Jersey Coast,3,2,18,9
+No Jersey Coast,3,3,25,0
+No Jersey Coast,3,4,496,71
+No Jersey Coast,3,5,968,164
+No Jersey Coast,3,6,1521,161
+No Jersey Coast,3,7,2206,423
+No Jersey Coast,3,8,1967,528
+No Jersey Coast,3,9,1333,462
+No Jersey Coast,3,10,1098,410
+No Jersey Coast,3,11,1174,470
+No Jersey Coast,3,12,993,412
+No Jersey Coast,3,13,980,326
+No Jersey Coast,3,14,913,246
+No Jersey Coast,3,15,1007,231
+No Jersey Coast,3,16,1427,405
+No Jersey Coast,3,17,2136,639
+No Jersey Coast,3,18,2577,1031
+No Jersey Coast,3,19,2168,692
+No Jersey Coast,3,20,1566,408
+No Jersey Coast,3,21,1101,322
+No Jersey Coast,3,22,825,288
+No Jersey Coast,3,23,315,114
+No Jersey Coast,4,0,462,222
+No Jersey Coast,4,1,564,272
+No Jersey Coast,4,2,149,77
+No Jersey Coast,4,3,36,1
+No Jersey Coast,4,4,515,65
+No Jersey Coast,4,5,1011,180
+No Jersey Coast,4,6,1625,224
+No Jersey Coast,4,7,2241,407
+No Jersey Coast,4,8,2040,529
+No Jersey Coast,4,9,1358,446
+No Jersey Coast,4,10,1086,366
+No Jersey Coast,4,11,1196,452
+No Jersey Coast,4,12,1027,393
+No Jersey Coast,4,13,1020,355
+No Jersey Coast,4,14,1015,311
+No Jersey Coast,4,15,970,276
+No Jersey Coast,4,16,1424,509
+No Jersey Coast,4,17,2079,682
+No Jersey Coast,4,18,2488,1144
+No Jersey Coast,4,19,2085,792
+No Jersey Coast,4,20,1591,460
+No Jersey Coast,4,21,1167,361
+No Jersey Coast,4,22,974,359
+No Jersey Coast,4,23,738,236
+No Jersey Coast,5,0,892,350
+No Jersey Coast,5,1,811,369
+No Jersey Coast,5,2,165,86
+No Jersey Coast,5,4,28,0
+No Jersey Coast,5,5,445,33
+No Jersey Coast,5,6,601,114
+No Jersey Coast,5,7,1002,336
+No Jersey Coast,5,8,972,332
+No Jersey Coast,5,9,1265,455
+No Jersey Coast,5,10,1146,412
+No Jersey Coast,5,11,1249,562
+No Jersey Coast,5,12,1026,497
+No Jersey Coast,5,13,1222,571
+No Jersey Coast,5,14,959,469
+No Jersey Coast,5,15,1216,690
+No Jersey Coast,5,16,1072,535
+No Jersey Coast,5,17,1121,622
+No Jersey Coast,5,18,1341,698
+No Jersey Coast,5,19,1245,592
+No Jersey Coast,5,20,1353,674
+No Jersey Coast,5,21,1132,587
+No Jersey Coast,5,22,1056,597
+No Jersey Coast,5,23,855,450
+No Jersey Coast,6,0,507,138
+No Jersey Coast,6,1,169,103
+No Jersey Coast,6,2,110,41
+No Jersey Coast,6,3,105,50
+No Jersey Coast,6,4,22,0
+No Jersey Coast,6,5,447,54
+No Jersey Coast,6,6,543,86
+No Jersey Coast,6,7,959,227
+No Jersey Coast,6,8,886,226
+No Jersey Coast,6,9,1185,395
+No Jersey Coast,6,10,1119,343
+No Jersey Coast,6,11,1218,477
+No Jersey Coast,6,12,1067,485
+No Jersey Coast,6,13,1242,602
+No Jersey Coast,6,14,952,429
+No Jersey Coast,6,15,1149,524
+No Jersey Coast,6,16,1113,526
+No Jersey Coast,6,17,1113,579
+No Jersey Coast,6,18,1246,594
+No Jersey Coast,6,19,1178,609
+No Jersey Coast,6,20,1280,697
+No Jersey Coast,6,21,1047,543
+No Jersey Coast,6,22,945,485
+No Jersey Coast,6,23,600,280
+Northeast Corrdr,0,0,15,0
+Northeast Corrdr,0,1,414,208
+Northeast Corrdr,0,2,296,163
+Northeast Corrdr,0,3,23,2
+Northeast Corrdr,0,4,343,78
+Northeast Corrdr,0,5,1469,211
+Northeast Corrdr,0,6,1828,269
+Northeast Corrdr,0,7,2300,472
+Northeast Corrdr,0,8,2895,955
+Northeast Corrdr,0,9,2094,734
+Northeast Corrdr,0,10,1520,533
+Northeast Corrdr,0,11,1256,332
+Northeast Corrdr,0,12,1357,438
+Northeast Corrdr,0,13,1450,507
+Northeast Corrdr,0,14,1336,403
+Northeast Corrdr,0,15,1540,437
+Northeast Corrdr,0,16,1827,597
+Northeast Corrdr,0,17,2287,654
+Northeast Corrdr,0,18,1854,614
+Northeast Corrdr,0,19,1543,598
+Northeast Corrdr,0,20,1434,361
+Northeast Corrdr,0,21,1357,304
+Northeast Corrdr,0,22,1317,281
+Northeast Corrdr,0,23,960,174
+Northeast Corrdr,1,0,888,223
+Northeast Corrdr,1,1,248,147
+Northeast Corrdr,1,2,25,8
+Northeast Corrdr,1,3,51,12
+Northeast Corrdr,1,4,546,111
+Northeast Corrdr,1,5,1449,176
+Northeast Corrdr,1,6,1910,219
+Northeast Corrdr,1,7,2273,447
+Northeast Corrdr,1,8,2895,908
+Northeast Corrdr,1,9,2173,710
+Northeast Corrdr,1,10,1589,633
+Northeast Corrdr,1,11,1181,362
+Northeast Corrdr,1,12,1342,406
+Northeast Corrdr,1,13,1552,551
+Northeast Corrdr,1,14,1390,399
+Northeast Corrdr,1,15,1498,405
+Northeast Corrdr,1,16,1901,596
+Northeast Corrdr,1,17,2341,725
+Northeast Corrdr,1,18,1883,604
+Northeast Corrdr,1,19,1550,602
+Northeast Corrdr,1,20,1362,437
+Northeast Corrdr,1,21,1411,314
+Northeast Corrdr,1,22,1225,284
+Northeast Corrdr,1,23,372,79
+Northeast Corrdr,2,0,87,24
+Northeast Corrdr,2,1,379,139
+Northeast Corrdr,2,2,298,110
+Northeast Corrdr,2,3,73,7
+Northeast Corrdr,2,4,561,135
+Northeast Corrdr,2,5,1525,224
+Northeast Corrdr,2,6,1770,242
+Northeast Corrdr,2,7,2231,410
+Northeast Corrdr,2,8,2816,872
+Northeast Corrdr,2,9,2011,670
+Northeast Corrdr,2,10,1494,512
+Northeast Corrdr,2,11,1207,380
+Northeast Corrdr,2,12,1399,460
+Northeast Corrdr,2,13,1473,507
+Northeast Corrdr,2,14,1377,424
+Northeast Corrdr,2,15,1523,402
+Northeast Corrdr,2,16,1840,531
+Northeast Corrdr,2,17,2238,621
+Northeast Corrdr,2,18,1935,567
+Northeast Corrdr,2,19,1584,602
+Northeast Corrdr,2,20,1459,398
+Northeast Corrdr,2,21,1310,255
+Northeast Corrdr,2,22,1266,267
+Northeast Corrdr,2,23,895,189
+Northeast Corrdr,3,0,840,249
+Northeast Corrdr,3,1,246,149
+Northeast Corrdr,3,2,42,14
+Northeast Corrdr,3,3,49,11
+Northeast Corrdr,3,4,551,131
+Northeast Corrdr,3,5,1526,177
+Northeast Corrdr,3,6,1861,267
+Northeast Corrdr,3,7,2378,425
+Northeast Corrdr,3,8,2847,910
+Northeast Corrdr,3,9,2100,702
+Northeast Corrdr,3,10,1549,551
+Northeast Corrdr,3,11,1223,413
+Northeast Corrdr,3,12,1452,414
+Northeast Corrdr,3,13,1513,561
+Northeast Corrdr,3,14,1404,401
+Northeast Corrdr,3,15,1575,405
+Northeast Corrdr,3,16,1838,574
+Northeast Corrdr,3,17,2295,655
+Northeast Corrdr,3,18,1865,591
+Northeast Corrdr,3,19,1541,629
+Northeast Corrdr,3,20,1433,436
+Northeast Corrdr,3,21,1348,315
+Northeast Corrdr,3,22,1172,271
+Northeast Corrdr,3,23,388,86
+Northeast Corrdr,4,0,118,25
+Northeast Corrdr,4,1,364,162
+Northeast Corrdr,4,2,293,120
+Northeast Corrdr,4,3,55,12
+Northeast Corrdr,4,4,613,180
+Northeast Corrdr,4,5,1568,222
+Northeast Corrdr,4,6,1904,286
+Northeast Corrdr,4,7,2245,442
+Northeast Corrdr,4,8,2932,949
+Northeast Corrdr,4,9,2152,693
+Northeast Corrdr,4,10,1588,577
+Northeast Corrdr,4,11,1233,323
+Northeast Corrdr,4,12,1381,384
+Northeast Corrdr,4,13,1484,576
+Northeast Corrdr,4,14,1428,455
+Northeast Corrdr,4,15,1602,506
+Northeast Corrdr,4,16,1780,670
+Northeast Corrdr,4,17,2332,738
+Northeast Corrdr,4,18,1822,630
+Northeast Corrdr,4,19,1558,682
+Northeast Corrdr,4,20,1435,435
+Northeast Corrdr,4,21,1319,363
+Northeast Corrdr,4,22,1232,368
+Northeast Corrdr,4,23,818,262
+Northeast Corrdr,5,0,867,270
+Northeast Corrdr,5,1,817,386
+Northeast Corrdr,5,2,367,147
+Northeast Corrdr,5,3,20,1
+Northeast Corrdr,5,4,28,9
+Northeast Corrdr,5,5,459,77
+Northeast Corrdr,5,6,654,104
+Northeast Corrdr,5,7,803,184
+Northeast Corrdr,5,8,878,219
+Northeast Corrdr,5,9,908,297
+Northeast Corrdr,5,10,889,335
+Northeast Corrdr,5,11,974,366
+Northeast Corrdr,5,12,898,325
+Northeast Corrdr,5,13,1017,368
+Northeast Corrdr,5,14,963,359
+Northeast Corrdr,5,15,1074,451
+Northeast Corrdr,5,16,1240,348
+Northeast Corrdr,5,17,1187,371
+Northeast Corrdr,5,18,1165,386
+Northeast Corrdr,5,19,1123,340
+Northeast Corrdr,5,20,888,261
+Northeast Corrdr,5,21,900,303
+Northeast Corrdr,5,22,959,311
+Northeast Corrdr,5,23,884,288
+Northeast Corrdr,6,0,700,244
+Northeast Corrdr,6,1,230,82
+Northeast Corrdr,6,3,39,11
+Northeast Corrdr,6,4,237,54
+Northeast Corrdr,6,5,487,77
+Northeast Corrdr,6,6,621,99
+Northeast Corrdr,6,7,773,163
+Northeast Corrdr,6,8,911,173
+Northeast Corrdr,6,9,892,232
+Northeast Corrdr,6,10,913,277
+Northeast Corrdr,6,11,955,291
+Northeast Corrdr,6,12,911,279
+Northeast Corrdr,6,13,992,340
+Northeast Corrdr,6,14,977,362
+Northeast Corrdr,6,15,1071,407
+Northeast Corrdr,6,16,1212,351
+Northeast Corrdr,6,17,1288,435
+Northeast Corrdr,6,18,1114,381
+Northeast Corrdr,6,19,1056,344
+Northeast Corrdr,6,20,921,348
+Northeast Corrdr,6,21,931,370
+Northeast Corrdr,6,22,754,251
+Northeast Corrdr,6,23,231,67
+Pascack Valley,0,0,62,2
+Pascack Valley,0,1,360,138
+Pascack Valley,0,5,408,91
+Pascack Valley,0,6,702,76
+Pascack Valley,0,7,1325,169
+Pascack Valley,0,8,840,111
+Pascack Valley,0,9,693,181
+Pascack Valley,0,10,561,126
+Pascack Valley,0,11,558,297
+Pascack Valley,0,12,539,145
+Pascack Valley,0,13,480,139
+Pascack Valley,0,14,565,150
+Pascack Valley,0,15,563,150
+Pascack Valley,0,16,743,122
+Pascack Valley,0,17,864,116
+Pascack Valley,0,18,1032,220
+Pascack Valley,0,19,761,157
+Pascack Valley,0,20,511,89
+Pascack Valley,0,21,557,152
+Pascack Valley,0,22,461,175
+Pascack Valley,0,23,262,27
+Pascack Valley,1,0,519,62
+Pascack Valley,1,1,41,8
+Pascack Valley,1,5,406,51
+Pascack Valley,1,6,710,38
+Pascack Valley,1,7,1297,113
+Pascack Valley,1,8,874,123
+Pascack Valley,1,9,679,163
+Pascack Valley,1,10,549,94
+Pascack Valley,1,11,542,239
+Pascack Valley,1,12,508,130
+Pascack Valley,1,13,518,111
+Pascack Valley,1,14,596,151
+Pascack Valley,1,15,597,169
+Pascack Valley,1,16,731,151
+Pascack Valley,1,17,917,170
+Pascack Valley,1,18,1094,200
+Pascack Valley,1,19,811,104
+Pascack Valley,1,20,514,139
+Pascack Valley,1,21,579,215
+Pascack Valley,1,22,522,275
+Pascack Valley,1,23,19,6
+Pascack Valley,2,0,43,5
+Pascack Valley,2,1,17,0
+Pascack Valley,2,5,406,31
+Pascack Valley,2,6,698,39
+Pascack Valley,2,7,1277,99
+Pascack Valley,2,8,821,94
+Pascack Valley,2,9,655,135
+Pascack Valley,2,10,580,113
+Pascack Valley,2,11,548,215
+Pascack Valley,2,12,498,135
+Pascack Valley,2,13,462,124
+Pascack Valley,2,14,579,184
+Pascack Valley,2,15,502,150
+Pascack Valley,2,16,738,136
+Pascack Valley,2,17,851,155
+Pascack Valley,2,18,1073,200
+Pascack Valley,2,19,813,148
+Pascack Valley,2,20,514,141
+Pascack Valley,2,21,560,255
+Pascack Valley,2,22,488,279
+Pascack Valley,2,23,240,37
+Pascack Valley,3,0,472,90
+Pascack Valley,3,1,73,17
+Pascack Valley,3,5,405,24
+Pascack Valley,3,6,686,41
+Pascack Valley,3,7,1238,162
+Pascack Valley,3,8,880,123
+Pascack Valley,3,9,684,162
+Pascack Valley,3,10,541,101
+Pascack Valley,3,11,608,237
+Pascack Valley,3,12,520,169
+Pascack Valley,3,13,495,138
+Pascack Valley,3,14,614,156
+Pascack Valley,3,15,537,149
+Pascack Valley,3,16,773,153
+Pascack Valley,3,17,886,122
+Pascack Valley,3,18,1020,206
+Pascack Valley,3,19,843,163
+Pascack Valley,3,20,500,131
+Pascack Valley,3,21,577,259
+Pascack Valley,3,22,472,274
+Pascack Valley,3,23,34,2
+Pascack Valley,4,0,47,1
+Pascack Valley,4,1,2,0
+Pascack Valley,4,5,416,26
+Pascack Valley,4,6,702,26
+Pascack Valley,4,7,1309,94
+Pascack Valley,4,8,890,99
+Pascack Valley,4,9,700,165
+Pascack Valley,4,10,610,109
+Pascack Valley,4,11,594,238
+Pascack Valley,4,12,579,202
+Pascack Valley,4,13,493,145
+Pascack Valley,4,14,597,231
+Pascack Valley,4,15,563,228
+Pascack Valley,4,16,752,228
+Pascack Valley,4,17,859,167
+Pascack Valley,4,18,1028,146
+Pascack Valley,4,19,812,131
+Pascack Valley,4,20,507,120
+Pascack Valley,4,21,634,244
+Pascack Valley,4,22,517,320
+Pascack Valley,4,23,233,56
+Pascack Valley,5,0,539,203
+Pascack Valley,5,1,442,251
+Pascack Valley,5,6,296,60
+Pascack Valley,5,7,335,46
+Pascack Valley,5,8,585,102
+Pascack Valley,5,9,249,42
+Pascack Valley,5,10,611,61
+Pascack Valley,5,11,249,22
+Pascack Valley,5,12,566,120
+Pascack Valley,5,13,196,48
+Pascack Valley,5,14,530,52
+Pascack Valley,5,15,225,26
+Pascack Valley,5,16,579,118
+Pascack Valley,5,17,426,83
+Pascack Valley,5,18,566,102
+Pascack Valley,5,19,603,129
+Pascack Valley,5,20,462,148
+Pascack Valley,5,21,237,66
+Pascack Valley,5,22,202,65
+Pascack Valley,5,23,181,45
+Pascack Valley,6,0,206,38
+Pascack Valley,6,1,5,2
+Pascack Valley,6,6,300,75
+Pascack Valley,6,7,345,26
+Pascack Valley,6,8,604,77
+Pascack Valley,6,9,238,29
+Pascack Valley,6,10,601,71
+Pascack Valley,6,11,256,27
+Pascack Valley,6,12,607,137
+Pascack Valley,6,13,186,39
+Pascack Valley,6,14,531,56
+Pascack Valley,6,15,223,30
+Pascack Valley,6,16,585,138
+Pascack Valley,6,17,428,94
+Pascack Valley,6,18,583,138
+Pascack Valley,6,19,587,156
+Pascack Valley,6,20,467,104
+Pascack Valley,6,21,216,42
+Pascack Valley,6,22,206,25
+Pascack Valley,6,23,11,4
+Princeton Shuttle,0,0,2,0
+Princeton Shuttle,0,4,28,0
+Princeton Shuttle,0,5,117,0
+Princeton Shuttle,0,6,90,0
+Princeton Shuttle,0,7,95,0
+Princeton Shuttle,0,8,82,0
+Princeton Shuttle,0,9,124,0
+Princeton Shuttle,0,10,52,0
+Princeton Shuttle,0,11,90,1
+Princeton Shuttle,0,12,90,0
+Princeton Shuttle,0,13,97,0
+Princeton Shuttle,0,14,70,0
+Princeton Shuttle,0,15,104,0
+Princeton Shuttle,0,16,119,0
+Princeton Shuttle,0,17,85,0
+Princeton Shuttle,0,18,129,1
+Princeton Shuttle,0,19,153,0
+Princeton Shuttle,0,20,105,0
+Princeton Shuttle,0,21,57,0
+Princeton Shuttle,0,22,124,0
+Princeton Shuttle,0,23,85,0
+Princeton Shuttle,1,0,63,0
+Princeton Shuttle,1,1,87,9
+Princeton Shuttle,1,4,35,0
+Princeton Shuttle,1,5,92,0
+Princeton Shuttle,1,6,92,0
+Princeton Shuttle,1,7,95,0
+Princeton Shuttle,1,8,78,0
+Princeton Shuttle,1,9,116,0
+Princeton Shuttle,1,10,49,0
+Princeton Shuttle,1,11,118,0
+Princeton Shuttle,1,12,109,0
+Princeton Shuttle,1,13,90,0
+Princeton Shuttle,1,14,102,0
+Princeton Shuttle,1,15,96,0
+Princeton Shuttle,1,16,115,0
+Princeton Shuttle,1,17,93,0
+Princeton Shuttle,1,18,128,0
+Princeton Shuttle,1,19,174,0
+Princeton Shuttle,1,20,82,0
+Princeton Shuttle,1,21,53,0
+Princeton Shuttle,1,22,65,0
+Princeton Shuttle,1,23,49,0
+Princeton Shuttle,2,0,6,0
+Princeton Shuttle,2,1,6,0
+Princeton Shuttle,2,4,28,0
+Princeton Shuttle,2,5,125,0
+Princeton Shuttle,2,6,90,0
+Princeton Shuttle,2,7,99,1
+Princeton Shuttle,2,8,78,0
+Princeton Shuttle,2,9,121,0
+Princeton Shuttle,2,10,55,0
+Princeton Shuttle,2,11,101,0
+Princeton Shuttle,2,12,97,1
+Princeton Shuttle,2,13,92,1
+Princeton Shuttle,2,14,95,0
+Princeton Shuttle,2,15,97,1
+Princeton Shuttle,2,16,96,0
+Princeton Shuttle,2,17,83,2
+Princeton Shuttle,2,18,129,1
+Princeton Shuttle,2,19,149,0
+Princeton Shuttle,2,20,83,0
+Princeton Shuttle,2,21,44,0
+Princeton Shuttle,2,22,91,0
+Princeton Shuttle,2,23,89,0
+Princeton Shuttle,3,0,70,0
+Princeton Shuttle,3,1,83,8
+Princeton Shuttle,3,4,26,0
+Princeton Shuttle,3,5,118,0
+Princeton Shuttle,3,6,104,0
+Princeton Shuttle,3,7,107,0
+Princeton Shuttle,3,8,70,0
+Princeton Shuttle,3,9,115,0
+Princeton Shuttle,3,10,53,0
+Princeton Shuttle,3,11,108,0
+Princeton Shuttle,3,12,95,0
+Princeton Shuttle,3,13,120,0
+Princeton Shuttle,3,14,80,0
+Princeton Shuttle,3,15,92,0
+Princeton Shuttle,3,16,111,1
+Princeton Shuttle,3,17,74,0
+Princeton Shuttle,3,18,129,0
+Princeton Shuttle,3,19,156,1
+Princeton Shuttle,3,20,75,0
+Princeton Shuttle,3,21,45,0
+Princeton Shuttle,3,22,52,0
+Princeton Shuttle,3,23,37,0
+Princeton Shuttle,4,0,8,0
+Princeton Shuttle,4,1,5,1
+Princeton Shuttle,4,4,28,0
+Princeton Shuttle,4,5,120,0
+Princeton Shuttle,4,6,117,0
+Princeton Shuttle,4,7,98,1
+Princeton Shuttle,4,8,92,0
+Princeton Shuttle,4,9,116,0
+Princeton Shuttle,4,10,45,0
+Princeton Shuttle,4,11,99,0
+Princeton Shuttle,4,12,100,0
+Princeton Shuttle,4,13,118,0
+Princeton Shuttle,4,14,87,0
+Princeton Shuttle,4,15,101,0
+Princeton Shuttle,4,16,130,0
+Princeton Shuttle,4,17,95,0
+Princeton Shuttle,4,18,134,0
+Princeton Shuttle,4,19,160,0
+Princeton Shuttle,4,20,79,0
+Princeton Shuttle,4,21,54,0
+Princeton Shuttle,4,22,99,0
+Princeton Shuttle,4,23,92,0
+Princeton Shuttle,5,0,61,0
+Princeton Shuttle,5,1,88,7
+Princeton Shuttle,5,9,92,0
+Princeton Shuttle,5,10,93,0
+Princeton Shuttle,5,11,98,0
+Princeton Shuttle,5,12,97,0
+Princeton Shuttle,5,13,89,0
+Princeton Shuttle,5,14,64,0
+Princeton Shuttle,5,15,83,0
+Princeton Shuttle,5,16,80,0
+Princeton Shuttle,5,17,19,0
+Princeton Shuttle,5,18,124,0
+Princeton Shuttle,5,19,105,0
+Princeton Shuttle,5,20,105,0
+Princeton Shuttle,5,21,97,0
+Princeton Shuttle,5,22,118,0
+Princeton Shuttle,5,23,107,0
+Princeton Shuttle,6,0,56,0
+Princeton Shuttle,6,1,37,10
+Princeton Shuttle,6,9,81,0
+Princeton Shuttle,6,10,98,0
+Princeton Shuttle,6,11,100,0
+Princeton Shuttle,6,12,101,0
+Princeton Shuttle,6,13,92,0
+Princeton Shuttle,6,14,63,0
+Princeton Shuttle,6,15,75,0
+Princeton Shuttle,6,16,87,0
+Princeton Shuttle,6,17,14,0
+Princeton Shuttle,6,18,101,0
+Princeton Shuttle,6,19,89,0
+Princeton Shuttle,6,20,101,0
+Princeton Shuttle,6,21,104,0
+Princeton Shuttle,6,22,71,0
+Princeton Shuttle,6,23,74,0
+Raritan Valley,0,0,3,0
+Raritan Valley,0,1,148,54
+Raritan Valley,0,2,117,41
+Raritan Valley,0,4,170,23
+Raritan Valley,0,5,498,38
+Raritan Valley,0,6,1212,152
+Raritan Valley,0,7,1330,446
+Raritan Valley,0,8,908,360
+Raritan Valley,0,9,552,183
+Raritan Valley,0,10,495,144
+Raritan Valley,0,11,436,137
+Raritan Valley,0,12,322,94
+Raritan Valley,0,13,341,101
+Raritan Valley,0,14,520,102
+Raritan Valley,0,15,679,96
+Raritan Valley,0,16,877,178
+Raritan Valley,0,17,1015,217
+Raritan Valley,0,18,1475,481
+Raritan Valley,0,19,959,379
+Raritan Valley,0,20,666,193
+Raritan Valley,0,21,367,54
+Raritan Valley,0,22,299,32
+Raritan Valley,0,23,276,84
+Raritan Valley,1,0,255,79
+Raritan Valley,1,1,52,19
+Raritan Valley,1,2,10,0
+Raritan Valley,1,4,164,8
+Raritan Valley,1,5,485,41
+Raritan Valley,1,6,1217,128
+Raritan Valley,1,7,1336,454
+Raritan Valley,1,8,932,322
+Raritan Valley,1,9,504,155
+Raritan Valley,1,10,457,107
+Raritan Valley,1,11,388,112
+Raritan Valley,1,12,320,102
+Raritan Valley,1,13,337,100
+Raritan Valley,1,14,505,101
+Raritan Valley,1,15,632,115
+Raritan Valley,1,16,840,169
+Raritan Valley,1,17,1175,286
+Raritan Valley,1,18,1463,509
+Raritan Valley,1,19,944,362
+Raritan Valley,1,20,706,249
+Raritan Valley,1,21,330,47
+Raritan Valley,1,22,269,53
+Raritan Valley,1,23,66,15
+Raritan Valley,2,0,38,9
+Raritan Valley,2,1,162,29
+Raritan Valley,2,2,123,23
+Raritan Valley,2,4,173,36
+Raritan Valley,2,5,493,47
+Raritan Valley,2,6,1128,136
+Raritan Valley,2,7,1303,446
+Raritan Valley,2,8,899,349
+Raritan Valley,2,9,490,164
+Raritan Valley,2,10,444,120
+Raritan Valley,2,11,388,119
+Raritan Valley,2,12,290,85
+Raritan Valley,2,13,314,97
+Raritan Valley,2,14,465,96
+Raritan Valley,2,15,630,111
+Raritan Valley,2,16,853,168
+Raritan Valley,2,17,1091,260
+Raritan Valley,2,18,1438,514
+Raritan Valley,2,19,918,339
+Raritan Valley,2,20,600,169
+Raritan Valley,2,21,314,51
+Raritan Valley,2,22,265,27
+Raritan Valley,2,23,252,70
+Raritan Valley,3,0,250,64
+Raritan Valley,3,1,51,16
+Raritan Valley,3,2,18,2
+Raritan Valley,3,4,167,18
+Raritan Valley,3,5,529,50
+Raritan Valley,3,6,1221,154
+Raritan Valley,3,7,1355,430
+Raritan Valley,3,8,869,299
+Raritan Valley,3,9,557,208
+Raritan Valley,3,10,472,106
+Raritan Valley,3,11,432,138
+Raritan Valley,3,12,343,87
+Raritan Valley,3,13,326,100
+Raritan Valley,3,14,466,108
+Raritan Valley,3,15,676,100
+Raritan Valley,3,16,833,158
+Raritan Valley,3,17,1133,280
+Raritan Valley,3,18,1556,495
+Raritan Valley,3,19,973,332
+Raritan Valley,3,20,674,169
+Raritan Valley,3,21,312,54
+Raritan Valley,3,22,261,35
+Raritan Valley,3,23,77,11
+Raritan Valley,4,0,41,2
+Raritan Valley,4,1,151,23
+Raritan Valley,4,2,112,20
+Raritan Valley,4,4,198,29
+Raritan Valley,4,5,577,60
+Raritan Valley,4,6,1170,134
+Raritan Valley,4,7,1392,431
+Raritan Valley,4,8,895,314
+Raritan Valley,4,9,530,152
+Raritan Valley,4,10,455,91
+Raritan Valley,4,11,416,131
+Raritan Valley,4,12,311,79
+Raritan Valley,4,13,329,85
+Raritan Valley,4,14,504,96
+Raritan Valley,4,15,649,104
+Raritan Valley,4,16,913,223
+Raritan Valley,4,17,1171,266
+Raritan Valley,4,18,1489,390
+Raritan Valley,4,19,941,309
+Raritan Valley,4,20,636,196
+Raritan Valley,4,21,325,68
+Raritan Valley,4,22,260,54
+Raritan Valley,4,23,251,68
+Raritan Valley,5,0,237,91
+Raritan Valley,5,1,186,60
+Raritan Valley,5,2,135,32
+Raritan Valley,5,6,258,37
+Raritan Valley,5,7,397,103
+Raritan Valley,5,8,619,145
+Raritan Valley,5,9,565,117
+Raritan Valley,5,10,586,124
+Raritan Valley,5,11,601,176
+Raritan Valley,5,12,568,162
+Raritan Valley,5,13,528,139
+Raritan Valley,5,14,597,199
+Raritan Valley,5,15,606,156
+Raritan Valley,5,16,573,133
+Raritan Valley,5,17,555,95
+Raritan Valley,5,18,646,132
+Raritan Valley,5,19,601,121
+Raritan Valley,5,20,602,134
+Raritan Valley,5,21,579,85
+Raritan Valley,5,22,599,103
+Raritan Valley,5,23,508,102
+Raritan Valley,6,0,357,69
+Raritan Valley,6,1,17,7
+Raritan Valley,6,2,10,8
+Raritan Valley,6,6,252,46
+Raritan Valley,6,7,389,87
+Raritan Valley,6,8,601,120
+Raritan Valley,6,9,564,105
+Raritan Valley,6,10,602,151
+Raritan Valley,6,11,600,150
+Raritan Valley,6,12,542,142
+Raritan Valley,6,13,581,106
+Raritan Valley,6,14,578,130
+Raritan Valley,6,15,562,100
+Raritan Valley,6,16,575,139
+Raritan Valley,6,17,597,147
+Raritan Valley,6,18,565,127
+Raritan Valley,6,19,564,134
+Raritan Valley,6,20,635,141
+Raritan Valley,6,21,581,146
+Raritan Valley,6,22,564,119
+Raritan Valley,6,23,206,41

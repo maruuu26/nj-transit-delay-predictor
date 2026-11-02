@@ -1,0 +1,228 @@
+line,to_station
+Atl. City Line,Absecon
+Atl. City Line,Atco
+Atl. City Line,Atlantic City Rail Terminal
+Atl. City Line,Cherry Hill
+Atl. City Line,Egg Harbor City
+Atl. City Line,Hammonton
+Atl. City Line,Lindenwold
+Atl. City Line,Pennsauken
+Atl. City Line,Philadelphia
+Bergen Co. Line ,Allendale
+Bergen Co. Line ,Broadway Fair Lawn
+Bergen Co. Line ,Campbell Hall
+Bergen Co. Line ,Garfield
+Bergen Co. Line ,Glen Rock Boro Hall
+Bergen Co. Line ,Harriman
+Bergen Co. Line ,Ho-Ho-Kus
+Bergen Co. Line ,Hoboken
+Bergen Co. Line ,Mahwah
+Bergen Co. Line ,Middletown NY
+Bergen Co. Line ,Otisville
+Bergen Co. Line ,Plauderville
+Bergen Co. Line ,Port Jervis
+Bergen Co. Line ,Radburn Fair Lawn
+Bergen Co. Line ,Ramsey Main St
+Bergen Co. Line ,Ramsey Route 17
+Bergen Co. Line ,Ridgewood
+Bergen Co. Line ,Rutherford
+Bergen Co. Line ,Salisbury Mills-Cornwall
+Bergen Co. Line ,Secaucus Lower Lvl
+Bergen Co. Line ,Sloatsburg
+Bergen Co. Line ,Suffern
+Bergen Co. Line ,Tuxedo
+Bergen Co. Line ,Waldwick
+Bergen Co. Line ,Wesmont
+Gladstone Branch,Basking Ridge
+Gladstone Branch,Berkeley Heights
+Gladstone Branch,Bernardsville
+Gladstone Branch,Brick Church
+Gladstone Branch,East Orange
+Gladstone Branch,Far Hills
+Gladstone Branch,Gillette
+Gladstone Branch,Gladstone
+Gladstone Branch,Highland Avenue
+Gladstone Branch,Hoboken
+Gladstone Branch,Lyons
+Gladstone Branch,Maplewood
+Gladstone Branch,Millburn
+Gladstone Branch,Millington
+Gladstone Branch,Mountain Station
+Gladstone Branch,Murray Hill
+Gladstone Branch,New Providence
+Gladstone Branch,New York Penn Station
+Gladstone Branch,Newark Broad Street
+Gladstone Branch,Orange
+Gladstone Branch,Peapack
+Gladstone Branch,Secaucus Upper Lvl
+Gladstone Branch,Short Hills
+Gladstone Branch,South Orange
+Gladstone Branch,Stirling
+Gladstone Branch,Summit
+Main Line,Allendale
+Main Line,Campbell Hall
+Main Line,Clifton
+Main Line,Delawanna
+Main Line,Glen Rock Main Line
+Main Line,Harriman
+Main Line,Hawthorne
+Main Line,Ho-Ho-Kus
+Main Line,Hoboken
+Main Line,Kingsland
+Main Line,Lyndhurst
+Main Line,Mahwah
+Main Line,Middletown NY
+Main Line,Otisville
+Main Line,Passaic
+Main Line,Paterson
+Main Line,Port Jervis
+Main Line,Ramsey Main St
+Main Line,Ramsey Route 17
+Main Line,Ridgewood
+Main Line,Salisbury Mills-Cornwall
+Main Line,Secaucus Lower Lvl
+Main Line,Sloatsburg
+Main Line,Suffern
+Main Line,Tuxedo
+Main Line,Waldwick
+Montclair-Boonton,Bay Street
+Montclair-Boonton,Bloomfield
+Montclair-Boonton,Boonton
+Montclair-Boonton,Denville
+Montclair-Boonton,Dover
+Montclair-Boonton,Glen Ridge
+Montclair-Boonton,Hackettstown
+Montclair-Boonton,Hoboken
+Montclair-Boonton,Lake Hopatcong
+Montclair-Boonton,Lincoln Park
+Montclair-Boonton,Little Falls
+Montclair-Boonton,Montclair Heights
+Montclair-Boonton,Montclair State U
+Montclair-Boonton,Mount Arlington
+Montclair-Boonton,Mount Olive
+Montclair-Boonton,Mountain Avenue
+Montclair-Boonton,Mountain Lakes
+Montclair-Boonton,Mountain View
+Montclair-Boonton,Netcong
+Montclair-Boonton,New York Penn Station
+Montclair-Boonton,Newark Broad Street
+Montclair-Boonton,Secaucus Upper Lvl
+Montclair-Boonton,Towaco
+Montclair-Boonton,Upper Montclair
+Montclair-Boonton,Walnut Street
+Montclair-Boonton,Watchung Avenue
+Montclair-Boonton,Watsessing Avenue
+Montclair-Boonton,Wayne-Route 23
+Morristown Line,Brick Church
+Morristown Line,Chatham
+Morristown Line,Convent Station
+Morristown Line,Denville
+Morristown Line,Dover
+Morristown Line,East Orange
+Morristown Line,Hackettstown
+Morristown Line,Highland Avenue
+Morristown Line,Hoboken
+Morristown Line,Lake Hopatcong
+Morristown Line,Madison
+Morristown Line,Maplewood
+Morristown Line,Millburn
+Morristown Line,Morris Plains
+Morristown Line,Morristown
+Morristown Line,Mount Arlington
+Morristown Line,Mount Olive
+Morristown Line,Mount Tabor
+Morristown Line,Mountain Station
+Morristown Line,Netcong
+Morristown Line,New York Penn Station
+Morristown Line,Newark Broad Street
+Morristown Line,Orange
+Morristown Line,Secaucus Upper Lvl
+Morristown Line,Short Hills
+Morristown Line,South Orange
+Morristown Line,Summit
+No Jersey Coast,Aberdeen-Matawan
+No Jersey Coast,Allenhurst
+No Jersey Coast,Asbury Park
+No Jersey Coast,Avenel
+No Jersey Coast,Bay Head
+No Jersey Coast,Belmar
+No Jersey Coast,Bradley Beach
+No Jersey Coast,Elberon
+No Jersey Coast,Elizabeth
+No Jersey Coast,Hazlet
+No Jersey Coast,Hoboken
+No Jersey Coast,Linden
+No Jersey Coast,Little Silver
+No Jersey Coast,Long Branch
+No Jersey Coast,Manasquan
+No Jersey Coast,Middletown NJ
+No Jersey Coast,New York Penn Station
+No Jersey Coast,Newark Airport
+No Jersey Coast,Newark Penn Station
+No Jersey Coast,North Elizabeth
+No Jersey Coast,Perth Amboy
+No Jersey Coast,Point Pleasant Beach
+No Jersey Coast,Rahway
+No Jersey Coast,Red Bank
+No Jersey Coast,Secaucus Upper Lvl
+No Jersey Coast,South Amboy
+No Jersey Coast,Spring Lake
+No Jersey Coast,Woodbridge
+Northeast Corrdr,Edison
+Northeast Corrdr,Elizabeth
+Northeast Corrdr,Hamilton
+Northeast Corrdr,Jersey Avenue
+Northeast Corrdr,Linden
+Northeast Corrdr,Metropark
+Northeast Corrdr,Metuchen
+Northeast Corrdr,New Brunswick
+Northeast Corrdr,New York Penn Station
+Northeast Corrdr,Newark Airport
+Northeast Corrdr,Newark Penn Station
+Northeast Corrdr,North Elizabeth
+Northeast Corrdr,Princeton Junction
+Northeast Corrdr,Rahway
+Northeast Corrdr,Secaucus Upper Lvl
+Northeast Corrdr,Trenton
+Pascack Valley,Anderson Street
+Pascack Valley,Emerson
+Pascack Valley,Essex Street
+Pascack Valley,Hillsdale
+Pascack Valley,Hoboken
+Pascack Valley,Montvale
+Pascack Valley,Nanuet
+Pascack Valley,New Bridge Landing
+Pascack Valley,Oradell
+Pascack Valley,Park Ridge
+Pascack Valley,Pearl River
+Pascack Valley,River Edge
+Pascack Valley,Secaucus Lower Lvl
+Pascack Valley,Spring Valley
+Pascack Valley,Teterboro
+Pascack Valley,Westwood
+Pascack Valley,Wood Ridge
+Pascack Valley,Woodcliff Lake
+Princeton Shuttle,Princeton
+Princeton Shuttle,Princeton Junction
+Raritan Valley,Annandale
+Raritan Valley,Bound Brook
+Raritan Valley,Bridgewater
+Raritan Valley,Cranford
+Raritan Valley,Dunellen
+Raritan Valley,Fanwood
+Raritan Valley,Garwood
+Raritan Valley,High Bridge
+Raritan Valley,Hoboken
+Raritan Valley,Lebanon
+Raritan Valley,Netherwood
+Raritan Valley,New York Penn Station
+Raritan Valley,Newark Penn Station
+Raritan Valley,North Branch
+Raritan Valley,Plainfield
+Raritan Valley,Raritan
+Raritan Valley,Roselle Park
+Raritan Valley,Secaucus Upper Lvl
+Raritan Valley,Somerville
+Raritan Valley,Union
+Raritan Valley,Westfield
+Raritan Valley,White House
